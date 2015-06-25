@@ -1,0 +1,109 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".ReuseRepairActivity"
+    android:clickable="false"
+    android:backgroundTintMode="screen"
+    android:backgroundTint="#ff2d694d"
+    android:focusable="true"
+    android:background="@drawable/test">
+
+    <TextView android:text="@string/select_service"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:id="@+id/selectTextView"
+        android:textColor="@android:color/black"
+        android:layout_above="@+id/reuserepairLinear"
+        android:layout_centerHorizontal="true" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="75dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/reuserepairLinear">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/reuse"
+            android:id="@+id/reuseButton"
+            android:layout_weight="1"
+            android:textAllCaps="false"
+            android:background="@drawable/mybutton"
+            android:textColor="#FFF5FFF5"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+
+        <RelativeLayout
+            android:layout_width="15dp"
+            android:layout_height="match_parent"
+            android:id="@+id/reuserepairRelative"></RelativeLayout>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/repair"
+            android:id="@+id/repairButton"
+            android:layout_weight="1"
+            android:textAllCaps="false"
+            android:textColor="#FFF5FFF5"
+            android:background="@drawable/mybutton"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/recycle_depot"
+            android:id="@+id/depotButton"
+            android:layout_weight="1"
+            android:textAllCaps="false"
+            android:background="#ff58bf4e"
+            android:textSize="15sp"
+            android:textColor="#ff3e3e3e" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/recycle_guide"
+            android:id="@+id/guideButton"
+            android:layout_weight="1"
+            android:textAllCaps="false"
+            android:background="#ff58bf4e"
+            android:textSize="15sp"
+            android:textColor="#FF3E3E3E" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/about"
+            android:id="@+id/aboutButton"
+            android:layout_weight="1"
+            android:textAllCaps="false"
+            android:background="#ff58bf4e"
+            android:textSize="15sp"
+            android:textColor="#FF3E3E3E" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>

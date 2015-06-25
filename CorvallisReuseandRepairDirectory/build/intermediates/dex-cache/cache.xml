@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-59c9a0b53243dcb96ae6bf579963b7a1d3ffcda7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-40c2bbe94fb3082529337cea10b875bee25e3b63.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-ad444c7472ceb1344510788cc44061494e7aa073.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-4bb70c0d1a462c9480e0ba5d1ea4af24263f5af6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-b19478a2d1790ea9c5029970f9a04ef57fe469e0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-9e440a3ae771e3d630bf909f178bc1117637a74b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-b4d0f2b369605ca15e4b8548d355a4aa115673db.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-0d6b663e4a5456b60918e1bd92b6afe30fb8ee2a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-d70ad2df498cb6d651d980b015bce7b1e14efdde.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-8293e03ef694deaf3a85ef5fe75db7087dba1aa7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-ccbdac570e4cd472868fb41a99f9cccb69981774.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-d266cd4a6a33ab8003ad2a65ac5c959ac332f7fe.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-1a515e1e9cc76bb4a42fed5f12eaa777653fb865.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-695af1ecd7f6f412a58506e687665e78a808e827.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-157b66d15bf11938c7be22ca0badcaa5a537671d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-646682e142e4a83050a62c004cc24efa11247f5a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-e06ef50b300d67aaec61fe3f0e0e479de80e75b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-56b1ec54f89e0eaa6efdedfcec6fc42c010217fa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-a5569dea1a5da013c866cf4b56eca3e10943dcfd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-b8a01f7558bfada6b85de16dec0fa4bfe50482e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-6d71865f346fd53332d70656770995a7d3fbcafe.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-4c91e5b532d6f768683e631c2a0a7c4b49d309e6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-d6b25b0486a7a4f89ca28c78326171df27ea0c7c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-248273727e75be1330625cfc0b9c843ee69d8e74.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-5c0d6a1337771c0e32df024b78d6ab436d943887.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-ecbe1ab3444f01b73d880d88326cc6b748ae79ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-05de095ab98d670b334d5b2a407141edd13e1cf7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-8726c2ffe4ab34e527d100e042318c340b932dfb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-e234ee65902ecae7685811c79c8da7b7fd657ebf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-810baa9edc1f74c18d60679caefd367824c7584a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-1621214b66d196e0c32626d6957d1bf8caca84c5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-d8b9fb3f4400077adbb2b074f22b31fa502f7fb1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-20e076a4aa4c31a5391d75a24da16e2b85bf4912.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-2a84a08227e57f9a6832e9b464e34578eaa59314.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-d58e9d58caa633852d6330c21a800ad0c12c10e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-c6cc4fb70d42c5a7d6df16df947fa8a0494ebe74.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-2f2065292cc3fecbb9f413b83d5bf216484cf27c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-6e5d3907a0039474d3a8fca8ce9975b067ff14f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-ef87af16f747c16e57025ba54f1deff9af8d3689.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-636ecbec53ebab36a5c8eaa8e093377d1678878b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-f0eba113ad0fef3f4b70ee21297834837e8cd94a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-b4be1b116cc1649653d5f21d182912d6ac811a74.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\Me\Documents\group project\album\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-cda7fb07009b4aa31a9938ed0c1a4641d017b8df.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-3931f1dcee58be608ab11da67dd26806f9b3efcc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\Me\Documents\group project\CorvallisReuseandRepairDirectory - Copy\app\build\intermediates\pre-dexed\debug\classes-8ac997d74f3b8ff23a15d3175aa7f924109fabff.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Corvallis Reuse and Repair Directory</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="select_service">would you like to:</string>
+    <string name="reuse">reuse</string>
+    <string name="repair">repair</string>
+    <string name="recycle_depot"> recycling&#10;depot </string>
+    <string name="recycle_guide"> recycling&#10;guide </string>
+    <string name="about"> about </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_reuse">Reuse Categories</string>
+    <string name="title_activity_repair">Repair Categories</string>
+    <string name="title_activity_about">About Us</string>
+    <string name="title_activity_business">Businesses</string>
+    <string name="title_repair_subcategories">Repair Subcategories</string>
+    <string name="title_businesslist">Business List</string>
+
+    <string name="get">Get</string>
+    <string name="result">Result</string>
+    <string name="building">Building</string>
+    <string name="room">Room</string>
+    <string name="title_activity_business_info">Business Information</string>
+
+    <string name="biz">biz</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

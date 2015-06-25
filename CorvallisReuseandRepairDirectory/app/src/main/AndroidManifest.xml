@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cs419group14.corvallisreuseandrepairdirectory" >
+
+    <permission
+        android:name="com.cs419group14.corvallisreuseandrepairdirectory.permission.MAPS_RECEIVE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but are recommended.
+    -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".ReuseRepairActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ReuseActivity"
+            android:label="@string/title_activity_reuse"
+            android:theme="@android:style/Theme.Holo.Light.DarkActionBar"
+            android:parentActivityName=".ReuseRepairActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cs419group14.corvallisreuseandrepairdirectory.ReuseRepairActivity" />
+        </activity>
+        <activity
+            android:name=".RepairActivity"
+            android:label="@string/title_activity_repair"
+            android:theme="@android:style/Theme.Holo.Light.DarkActionBar"
+            android:parentActivityName=".ReuseRepairActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cs419group14.corvallisreuseandrepairdirectory.ReuseRepairActivity" />
+        </activity>
+        <activity
+            android:name=".AboutActivity"
+            android:label="@string/title_activity_about"
+            android:parentActivityName=".ReuseRepairActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cs419group14.corvallisreuseandrepairdirectory.ReuseRepairActivity" />
+        </activity>
+
+        <activity
+            android:name=".RepairSubcategories"
+            android:label="@string/title_repair_subcategories"
+            android:theme="@android:style/Theme.Holo.Light.DarkActionBar"
+            android:parentActivityName=".RepairActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cs419group14.corvallisreuseandrepairdirectory.RepairActivity" />
+        </activity>
+        <activity
+            android:name=".BusinessListActivity"
+            android:label="@string/title_businesslist"
+            android:theme="@android:style/Theme.Holo.Light.DarkActionBar"
+            android:parentActivityName=".RepairSubcategories" />
+
+        <activity
+            android:name=".ReuseSubcategories"
+            android:label="@string/title_repair_subcategories"
+            android:theme="@android:style/Theme.Holo.Light.DarkActionBar"
+            android:parentActivityName=".ReuseActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cs419group14.corvallisreuseandrepairdirectory.ReuseActivity" />
+        </activity>
+        <activity
+            android:name=".ReuseBusinessListActivity"
+            android:label="@string/title_businesslist"
+            android:theme="@android:style/Theme.Holo.Light.DarkActionBar"
+            android:parentActivityName=".ReuseSubcategories" >
+
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cs419group14.corvallisreuseandrepairdirectory.ReuseSubcategories" />
+        </activity>
+        <activity
+            android:name="DetailActivity"
+            android:theme="@style/AppTheme"
+            android:screenOrientation="portrait" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="@string/google_maps_key" />
+
+    </application>
+
+</manifest>
